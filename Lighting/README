@@ -1,0 +1,34 @@
+   ### Lighting Effect ###
+   Incorporating lighting to create a a scene consisting of solid objects that can be viewed in three dimensions under user control.
+
+   BUILDING (OSX):
+   1. To compile all c files, in terminal, type 'make'
+   2. To run, type ‘./hw5’
+   3. To clean up files, type ‘make clean’
+
+   Code skeleton from lecture example
+ 
+   'l'     toggles lighting
+   a/A     decrease/increase ambient light
+   d/D     decrease/increase diffuse light
+   s/S     decrease/increase specular light
+   e/E     decrease/increase emitted light
+   n/N     decrease/increase shininess
+   m       toggles light movement
+   []      lower/rise light
+ 
+   p       to switch modes 
+   x       to toggle axes
+   0       snaps angles to 0,0
+   arrows  to rotate the world
+   PgUp/Dn zooms in/out
+   +/-     changes field of view of perspective
+ 
+   F1      toggles smooth/flat shading
+   F2      toggles local viewer mode
+   F3      toggles light distance (1/5)
+   F8      change ball increment
+   F9      invert bottom normal
+ 
+   Time to complete assignment: about 9-10 hrs
+   PNG file as attached
