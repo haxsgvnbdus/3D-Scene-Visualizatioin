@@ -1,0 +1,31 @@
+   ### Final Project ###
+
+   Create a 3D visualization of the back part of my house with mapped textures,  lighting and shading effect
+   
+   BUILDING (OSX):
+   1. To compile all c files, in terminal, type 'make'
+   2. To run, type ‘./final’
+   3. To clean up files, type ‘make clean’
+
+   Code skeleton from lecture example
+ 
+ Key bindings:
+ * 0          Reset view angle
+ * a          Turn left in first person
+ * w          Zoom in, in first person view
+ * s          Zoom out, in first person view
+ * d          Turn right in first person view
+ * arrows     Change view angle (perspective/orthogonal)
+ * m or M     Toggle perspective and orthogonal modes
+ * f or F     View scene in first person perspective
+ * +/-        Change field of view (FOV) angle (perspective)
+ * PgDn/PgUp  Zoom in and out
+ *  +/-       Change field of view angle
+ * ' '        Toggle shadows
+ * ESC        Exit
+
+  
+   Time to complete assignment: about 75hrs+
+   PNG file as attached
+   Han Ngo
+   
